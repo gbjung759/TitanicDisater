@@ -1,6 +1,8 @@
 # Coronavirus disease 2019
 
-## Data reference from kaggle
+## Data from kaggle
+[kaggle]: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+
 ### Context
 From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
 
@@ -34,9 +36,6 @@ Deaths - Cumulative number of of deaths till that date
 
 Recovered - Cumulative number of recovered cases till that date
 
-2019ncovdata.csv
-
-This is old dataset and not being updated now
 
 ### Acknowledgements
 Johns Hopkins university has made the data available in google sheets format here. Sincere thanks to them.
